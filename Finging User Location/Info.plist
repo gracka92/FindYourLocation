@@ -25,9 +25,11 @@
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
-	<array>
-		<string>armv7</string>
-	</array>
+	<array/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Because I want to know where you are!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Because I always know where you are!</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
